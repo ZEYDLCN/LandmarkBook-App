@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946057046629",
+    "project_id": "landmarkboo",
+    "storage_bucket": "landmarkboo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946057046629:android:060f7dccb2b0d9f57bf48c",
+        "android_client_info": {
+          "package_name": "com.zeydalcan.landmarkbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946057046629-v1auabl8hufoqhif37lhraoql3kk3o1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDojXwbTAuHtjDwwyJF6MFpKFYCESuIZTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946057046629-v1auabl8hufoqhif37lhraoql3kk3o1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
